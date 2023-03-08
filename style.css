@@ -1,0 +1,84 @@
+ body{
+    padding: 10px;
+    /* margin: 0; */
+    background-image:url(image.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+   
+    
+    
+}
+h3{
+    text-align: center;
+    color: rgb(43, 182, 236);
+    text-transform: uppercase;
+   
+}
+.container{
+   max-width: 300px;
+    margin:20px auto;
+    padding: 40px;
+    background: #ffffff36;
+    box-shadow: 2px 2px 4px;  
+}
+  input {
+    padding-bottom: 20px;
+    border-radius: 30px;
+    /* width: 100px; */
+    border: none;
+    
+
+    
+   
+}
+  label{
+    width: 80px;
+    font-size: 16px;
+    margin-right: 20px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+
+}
+.name{
+    display: flex;
+    padding: 5px;
+}
+.last{
+    display: flex;
+    padding: 5px;
+}
+.mail{
+    display: flex;
+    padding: 5px;
+}
+
+.tel{
+    display: flex;
+    padding: 5px;
+}
+
+.pass{
+    display: flex;
+    padding: 5px;
+}
+
+.address{
+    display: flex;
+    padding: 5px;
+}
+
+.bnt a{
+    border-radius: 25px;
+    padding: 15px;
+    text-decoration: none;
+    width: 100px;
+    background-color: rgb(43, 182, 236);
+    color: #fff;
+    border: none;
+    /* margin-left: 70px; */
+    
+} 
+.bnt{
+    text-align: center;
+    padding: 25px;
+
+}
